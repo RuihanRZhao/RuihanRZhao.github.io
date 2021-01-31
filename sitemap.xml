@@ -2,7 +2,28 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>http://ryencloud.com/2021/01/29/ICS4U_HW/</loc>
+    <loc>http://ryencloud.com/categories/index.html</loc>
+    
+    <lastmod>2021-01-31</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://ryencloud.com/2021/01/29/Class%20Homework%201_26/</loc>
+    
+    <lastmod>2021-01-31</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://ryencloud.com/2021/01/29/Class%20Homework%201_28/</loc>
+    
+    <lastmod>2021-01-31</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://ryencloud.com/2021/01/29/Class%20Homework%201_30/</loc>
     
     <lastmod>2021-01-31</lastmod>
     
@@ -45,6 +66,20 @@
   </url>
 
   
+  <url>
+    <loc>http://ryencloud.com/tags/JScodes/</loc>
+    <lastmod>2021-01-31</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
 
+  
+  <url>
+    <loc>http://ryencloud.com/categories/ICS4U-Homework-Examples/</loc>
+    <lastmod>2021-01-31</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
   
 </urlset>
